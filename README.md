@@ -20,7 +20,3 @@ The main objectives of this project are:
 - To calculate the overall minimum time spent in the mess using mathematical equations.
 - To create a generator to simulate the problem by assuming the three PDFs that were discussed in class.
 - To use various statistical techniques and libraries to plot and analyze different aspects of the data.
-
-## Contact Information
-
-For any questions or concerns related to this project, please contact the project owner at bm21btech11016@iith.ac.in.
