@@ -22,11 +22,11 @@ The main objectives of this project are:
 - To use various statistical techniques and libraries to plot and analyze different aspects of the data.
 
 ## Inputs 
-<img width="332" alt="image" src="https://user-images.githubusercontent.com/117291117/228684606-7f34a01d-2fa6-4cf1-b66b-0687895ca5bc.png">
+<img width="383" alt="image" src="https://user-images.githubusercontent.com/117291117/228684606-7f34a01d-2fa6-4cf1-b66b-0687895ca5bc.png">
 <img width="383" alt="image" src="https://user-images.githubusercontent.com/117291117/228684653-714f35c4-bb68-47f0-af58-00dcd24e13f0.png">
-<img width="335" alt="image" src="https://user-images.githubusercontent.com/117291117/228684719-d50f0072-3fb5-47e2-bc72-4480ff602d79.png">
+<img width="383" alt="image" src="https://user-images.githubusercontent.com/117291117/228684719-d50f0072-3fb5-47e2-bc72-4480ff602d79.png">
 
-##Outputs
-<img width="306" alt="image" src="https://user-images.githubusercontent.com/117291117/228684766-ff7d69fe-2d2f-447f-a129-f46e21c62cb6.png">
+## Outputs
+<img width="383" alt="image" src="https://user-images.githubusercontent.com/117291117/228684766-ff7d69fe-2d2f-447f-a129-f46e21c62cb6.png">
 
 
