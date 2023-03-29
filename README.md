@@ -1,23 +1,26 @@
-Project Title
-"Minimum Time Spent in Mess" Analysis
+# Minimum Time Spent in Mess Analysis Project
 
-Description
-This project involves the analysis of the minimum time spent in a mess by a person. The project uses various statistical techniques and libraries such as scipy.stats, matplotlib, numpy, and pandas to plot and analyze different aspects of the data.
+This project involves the analysis of the minimum time spent in a mess by a person. It includes the analysis of three different factors affecting the minimum time spent in the mess: 
 
-Objectives
-Work out and create a generator for the problem discussed in class (given entry rate, service rate, and eating time).
-Simulate by creating a generator by assuming the 3 PDFs that you have.
-Analyze the three different factors affecting the minimum time spent in the mess, which are entry rate, service rate, and eating time.
-Combine the factors to calculate the overall minimum time spent in the mess using mathematical equations.
-Technologies Used
-Python
-Jupyter Notebook
-Scipy.stats
-Matplotlib
-Numpy
-Pandas
-Results
-The project successfully analyzed the three factors affecting the minimum time spent in the mess and combined them to calculate the overall minimum time spent using mathematical equations. The results were visualized using different plots and charts.
+- Entry rate
+- Service rate
+- Eating time
 
-Conclusion
-The analysis of the minimum time spent in a mess can help in improving the mess facilities and services to reduce the time spent by a person in the mess. This project provides a framework for conducting such analyses and can be applied to other similar scenarios.
+These factors are combined to calculate the overall minimum time spent in the mess using mathematical equations.
+
+The project uses various statistical techniques and libraries such as **scipy.stats**, **matplotlib**, **numpy**, and **pandas** to plot and analyze different aspects of the data.
+
+To simulate the problem, a generator is created by assuming the three PDFs that were discussed in class: entry rate, service rate, and eating time.
+
+## Project Goals
+
+The main objectives of this project are:
+
+- To analyze and visualize the minimum time spent in a mess by a person.
+- To calculate the overall minimum time spent in the mess using mathematical equations.
+- To create a generator to simulate the problem by assuming the three PDFs that were discussed in class.
+- To use various statistical techniques and libraries to plot and analyze different aspects of the data.
+
+## Contact Information
+
+For any questions or concerns related to this project, please contact the project owner at bm21btech11016@iith.ac.in.
