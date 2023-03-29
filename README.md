@@ -1,5 +1,5 @@
 # minimum-time-in-mess
-Work out and create generator for the problem discussed in class (given entry rate, service rate and eating time). 
+# Work out and create generator for the problem discussed in class (given entry rate, service rate and eating time). 
 Simulate by creating a generator by assuming the 3 PDF that you have.
 The project involves the analysis of the minimum time spent in a mess by a person.
 It uses various statistical techniques and libraries such as scipy.stats, matplotlib, numpy, and pandas to plot and analyze different aspects of the data.
